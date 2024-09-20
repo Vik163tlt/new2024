@@ -15,6 +15,7 @@ resultArray = new int[firstArray.length + secondArray.length];
         for (int j : resultArray) {
             System.out.print(j + ", ");
         }
+
     }
 }
 
